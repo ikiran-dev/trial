@@ -1,0 +1,17 @@
+<mjml>
+  <mj-body background-color="#f1f1f1">
+    <mj-section background-color="#000000" padding-bottom="0px" padding-top="0">
+      <mj-column vertical-align="top" width="100%">
+        <mj-text align="left" color="#ffffff" font-size="45px" font-weight="bold" font-family="open Sans Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px" padding-bottom="30px" padding-top="50px">Welcome aboard</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000000" padding-bottom="20px" padding-top="20px">
+      <mj-column vertical-align="middle" width="100%">
+        <mj-text align="left" color="#ffffff" font-size="22px" font-family="open Sans Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px"><span style="color:#FEEB35">Dear Kiran</span><br /><br /> Welcome to Leadpulse.</mj-text>
+        <mj-text align="left" color="#ffffff" font-size="15px" font-family="open Sans Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px">We&apos;re really excited you&apos;ve decided to give us a try. In case you have any questions, feel free to reach out to Syed. You can login to your account with your username Ikiran@leadpulse.io .</mj-text>
+        <mj-button align="left" font-size="22px" font-weight="bold" background-color="#FEEB35" border-radius="10px" color="#000000" font-family="open Sans Helvetica, Arial, sans-serif">Login</mj-button>
+        <mj-text align="left" color="#ffffff" font-size="15px" font-family="open Sans Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px">Thanks, <br /><br />Leadpulse.io Team</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

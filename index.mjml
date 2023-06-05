@@ -1,0 +1,65 @@
+<mjml>
+    <mj-head>
+    <mj-font name="Quantico" href="https://fonts.googleapis.com/css2?family=Quantico"/>
+        <mj-attributes>
+            <mj-text font-family="Quantico, sans-serif" align="center" font-size="18px" line-height="26px" color="#ffffff" padding="0px" />
+                
+          <mj-image padding="0px" />
+          <mj-button background-color="#D1AA5A" font-size="14px" color="#000000" font-family="Quantico, sans-serif" text-transform="uppercase" border-radius="0px" height="30px" width="200px" />
+          <mj-section padding="0px" background-color="#000000" />
+          <mj-class name="head-text" font-size="48px" line-height="69px" text-transform="uppercase" />
+            
+    
+            
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="#f1f1f1">
+
+    <!-- logo-section -->
+        <mj-section padding="30px" background-color="#03001C">
+            <mj-column>
+            <mj-image width="200px" src="logo.png" alt="" />
+            </mj-column>
+        
+        </mj-section>
+
+   <!--  welcome-section -->
+        <mj-section background-color="#03001C" padding-bottom="50px">
+            <mj-column>
+            <mj-image width="380px" src="https://raw.githubusercontent.com/ikiran-dev/PORTFOLIO/projects/assets/images/profile2.jpg" alt="" />
+            </mj-column>
+        </mj-section>
+
+        <!-- description-section -->
+        <mj-section background-color="#2C3333">
+            <mj-column>
+            <mj-text font-size="37px" mj-class="head-text">
+            welcome to the team!
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- details-section -->
+        <mj-section background-color="#2C3333">
+            <mj-column  width="350px">
+            <mj-text>
+                You would be working with the best team in the world. We are a team of 5 people and we are looking forward to work with you.
+            </mj-text>
+            <mj-button>
+                Accept Invitation
+            </mj-button>
+                
+            </mj-column>
+        </mj-section>
+
+        <!-- footer-section -->
+        <mj-section background-color="#03001C">
+            <mj-column padding="50px">
+            <mj-image width="200px" src="logo.png" alt="" />
+            <mj-text align="center" font-size="12px" color="#ffffff">
+                © 2023 All Rights Reserved
+            </mj-text>
+            </mj-column>
+    </mj-body>
+
+</mjml>
